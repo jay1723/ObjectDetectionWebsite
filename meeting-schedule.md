@@ -1,1 +1,13 @@
-*Timing information for regular meetings w/ team, professors, client, etc.*
+---
+layout: default
+title: Meeting schedule
+---
+
+### Meetings with manager:
+Every Monday @ 10:30
+
+### Meetings with client:
+Bi-Monthly?
+
+### Meetings among developers:
+TBD?
