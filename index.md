@@ -1,6 +1,5 @@
-# Things to do:
-* project introduction
-* team roles
-* contact information
-* schedule of regular meetings
-* team rules
+# (Project introduction goes here)
+* [!Team roles]("https://jay1723.github.io/ObjectDetectionWebsite/roles.html")
+* [!Contact]("https://jay1723.github.io/ObjectDetectionWebsite/contact.html")
+* [!Meeting schedule]("https://jay1723.github.io/ObjectDetectionWebsite/meeting-schedule.html")
+* [!Team rules]("https://jay1723.github.io/ObjectDetectionWebsite/team-rules.html")
