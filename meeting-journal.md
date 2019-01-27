@@ -1,3 +1,8 @@
+---
+layout: default
+title: Meeting journal
+---
+
 ### Meeting with manager 28/01/2019 @ 10:30:
 * TBD
 

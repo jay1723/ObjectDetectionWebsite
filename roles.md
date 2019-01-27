@@ -3,5 +3,8 @@ layout: default
 title: Team roles
 ---
 
-
-*Information about team roles will go here*
+* Project website maintainer:
+* Note-taker at meetings:
+* UX lead:
+* Client manager:
+* Tech manager:
