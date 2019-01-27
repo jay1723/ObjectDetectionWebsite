@@ -4,25 +4,26 @@
 	<head>
 		<meta charset='utf-8'>
 		<title>{{ page.title }}</title>
-		<link rel='stylesheet' href='{{site.baseurl }}/assets/css/style.css'>
+		<link rel='stylesheet' href='{{ site.baseurl }}/css/style.css'>
 	</head>
 	<body>
-		<div id='header_wrap' class='outer'>
-			<header class='inner'>
-				tengo dolor de cabeza
-			</header>
-		</div>
+		<nav> 
+			<a href='{{ site.baseurl }}'>Home</a>
+			<a href='{{ site.baseurl }}/contact.html'>Contact</a>
+			<a href='{{ site.baseurl }}/roles.html'>Team roles</a>
+			<a href='{{ site.baseurl }}/meeting-schedule.html'>Meeting schedule</a>
+			<a href='{{ site.baseurl }}/team-rules.html'>Team rules</a>
+		</nav>
+
 		<h2>{{ page.title }}</h2>
-		<div id='main_content_wrap' class='outer'>
-			<section id='main_content' class='inner'>
-				{{ content }}
-			</section>
-		</div>
-		<div id='footer_wrap' class='outer'>
-			<footer class='inner'>
-				i am a foot
-			</footer>
-		</div>
+
+		<section class='content'>
+			{{ content }}
+		</section>
+
+		<footer>
+			i am a foot
+		</footer>
 	</body>
 
 </html>
