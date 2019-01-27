@@ -1,11 +1,23 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+}
+
 nav {
-	background-color: green;
+	background-color: white;
+	border: solid black;
 }
 
 section.content {
-	background-color: red;
+	border: solid black;
+	border-radius: 5px;
+	box-shadow: 7px 7px 15px grey;
 }
 
 footer {
-	background-color: yellow;
+	background-color: white;
+	border: solid black;
 }
