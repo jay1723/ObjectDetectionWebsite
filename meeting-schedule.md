@@ -9,5 +9,5 @@ Every Monday @ 10:30
 ### Meetings with client:
 Bi-Monthly?
 
-### Meetings among developers:
-TBD?
+### Meetings between team members:
+Mondays @ 10:00 - 10:30
