@@ -9,15 +9,30 @@ body {
 nav {
 	background-color: white;
 	border: solid black;
+	padding: 5px;
 }
 
 section.content {
 	border: solid black;
 	border-radius: 5px;
 	box-shadow: 7px 7px 15px grey;
+	max-width: 550px;
+	min-width: 550px;
+	padding: 5px;
+	margin-top: 7px;
+	margin-bottom: 4px;
 }
 
 footer {
 	background-color: white;
 	border: solid black;
+	padding: 5px;
+}
+
+a {
+	text-decoration: underline solid darkgrey;
+}
+
+a:hover {
+	text-decoration: underline solid lightblue;
 }
