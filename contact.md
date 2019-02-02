@@ -2,7 +2,8 @@
 layout: default
 title: Contact information
 ---
-
+### Group Email:
+* Group R: 523groupR@office.unc.edu
 ### Team members:
 * Whole team email: [523groupR@office.unc.edu](mailto:523groupR@office.unc.edu)
 * Andrew Huang ([ahuang352@gmail.com](mailto:ahuang352@gmail.com))
