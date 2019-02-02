@@ -3,9 +3,9 @@ layout: default
 title: Contact information
 ---
 ### Group Email:
-* Group R: 523groupR@office.unc.edu
+* [523groupR@office.unc.edu](mailto:523groupR@office.unc.edu)
+
 ### Team members:
-* Whole team email: [523groupR@office.unc.edu](mailto:523groupR@office.unc.edu)
 * Andrew Huang ([ahuang352@gmail.com](mailto:ahuang352@gmail.com))
 * Ben Levine ([benl1@live.unc.edu](mailto:benl1@live.unc.edu))
 * Jay Rao ([jayrao@live.unc.edu]("jayrao@live.unc.edu"))

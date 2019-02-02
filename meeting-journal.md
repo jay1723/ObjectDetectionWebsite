@@ -10,7 +10,6 @@ title: Meeting journal
 * Decide upon a framework to use by next meeting
 * Finish user stories by next meeting
 
-
 ### Client meeting 23/01/2019 @ 10:00:
 * Initial meeting with client
 * Main purpose of meeting was to better understand the project / what was wanted of us
