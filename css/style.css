@@ -48,3 +48,8 @@ a:visited {
 	color: black;
 	text-decoration: underline solid black;
 }
+
+nav a {
+	margin-left: 5px;
+	margin-right: 5px;
+}
