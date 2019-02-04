@@ -4,7 +4,12 @@ title: Meeting journal
 ---
 
 ### Meeting with manager 4/02/2019 @ 10:30:
-* TBD
+* Remove language that might be too technical from the concept document. In particular, remove the term "GUI" wherever it appears.
+* Put the tweet currently on the main page of our website in the concept document.
+* Write a paragraph explanation of our project on the main page in place of the tweet.
+* "teach lead" --> "tech lead" on roles page.
+* Somewhere in the user stories document, reference the client's notes given to us after the first meeting to clarify what we mean by group one, group two, ...
+* By next meeting, provide a list of alternatives to electron, along with the positives and negatives of each
 
 ### Meeting with manager 28/01/2019 @ 10:30:
 * Create a page for deliverables to be posted on
