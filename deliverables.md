@@ -1,3 +1,6 @@
+### 10/02/2019 deliverable:
+* [Alternative platforms](https://docs.google.com/document/d/10FhVnZMYm-ujrzTtj1uNJSLs-QRgqzfn6ru5m-VC_bI/edit?fbclid=IwAR2oWdEAzy0-qGuhS7rp4rIWIKqeMCrbWqsqwPTQkvk-V3pMu1li_F4jw9I)
+
 ### 4/02/2019 deliverables:
 * [Project concept](https://docs.google.com/document/d/11y1A9jOiNn0xDuQDhiGNQjMs7RACeEIikT0PUlOcbeo/edit?usp=sharing)
 * [User stories](https://docs.google.com/document/d/1KzUQyf4uReYArgaelqPxZ3O7hsEpr5or6-5mVxhIol4/edit?usp=sharing)
