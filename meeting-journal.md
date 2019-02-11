@@ -3,6 +3,14 @@ layout: default
 title: Meeting journal
 ---
 
+### Meeting with manager 11/02/2019 @ 10:30:
+* Next week's deliverable is an architecture diagram
+* Work on first step of process in electron -- allowing user to upload target images to the application
+  * Andrew will work on storing the library of images in a DB
+  * Ben will work on JS
+  * Duncan will work on html and css framework skeleton code for page
+  * Jay will work on wireframing and JS
+
 ### Meeting with manager 4/02/2019 @ 10:30:
 * Remove language that might be too technical from the concept document. In particular, remove the term "GUI" wherever it appears.
 * Put the tweet currently on the main page of our website in the concept document.
