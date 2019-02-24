@@ -1,3 +1,6 @@
+### 25/02/2019
+* [Tech Talk Ideas](https://docs.google.com/document/d/1ljatkXs8Zo0GPVSzwhbhWiuCpdWVTkwD5ZkaFhaVOsI/edit?usp=sharing)
+
 ### 18/02/2019 deliverable:
 * [Architecture Diagram](https://docs.google.com/document/d/1pGvFnnYowWFGXCCl4WfFP2vpwt_pBfimc9TC0AMvnrg/edit?usp=sharing)
 * [UI Design](https://www.figma.com/file/CdXHqJTk9czdtLvVxGvBJXDI/Project-UI?node-id=0%3A1)
