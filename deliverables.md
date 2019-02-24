@@ -1,4 +1,4 @@
-### 25/02/2019
+### 25/02/2019 deliverable:
 * [Tech Talk Ideas](https://docs.google.com/document/d/1ljatkXs8Zo0GPVSzwhbhWiuCpdWVTkwD5ZkaFhaVOsI/edit?usp=sharing)
 
 ### 18/02/2019 deliverable:
