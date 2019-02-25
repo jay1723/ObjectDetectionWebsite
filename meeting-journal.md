@@ -3,6 +3,19 @@ layout: default
 title: Meeting journal
 ---
 
+### Meeting with manager 25/02/2019 @ 10:30:
+* TBD
+
+### Meeting with manager 18/02/2019 @ 10:30:
+* Add information about React to platform selection
+* Add link to wireframes on the website
+* Write down a few possible subjects for a tech talk, along with possible talking points for each member
+* By next week, we will try to finish the three screens of the application:
+	* Ben will work on adding React information to the platform selection document
+	* Andrew will finalize the DB choice and add information regarding the selected DB to the platform selection document
+	* Duncan will continue working on HTML, CSS layout for the app
+	* All will continue working on JSX side of app
+
 ### Meeting with manager 11/02/2019 @ 10:30:
 * Next week's deliverable is an architecture diagram
 * Work on first step of process in electron -- allowing user to upload target images to the application
