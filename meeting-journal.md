@@ -4,7 +4,12 @@ title: Meeting journal
 ---
 
 ### Meeting with manager 25/02/2019 @ 10:30:
-* TBD
+* Meeting after spring break will be Tuesday @ 6:15
+* Set up weakly team meetings
+* Our goal for next week is to finish the remaining two scenes. The second scene should be fully functional, the third scene will just be a template.
+* We will try to begin playing around with the interop between JS and Python.
+* The tech talk that we give should be a demo of some technology. Other students should be able to make a simple working program using the technology afterwards.
+* Email Victor re: our decision of tech talk subject.
 
 ### Meeting with manager 18/02/2019 @ 10:30:
 * Add information about React to platform selection
