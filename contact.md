@@ -3,7 +3,7 @@ layout: default
 title: Contact information
 ---
 ### Group Email:
-* [523groupR@office.unc.edu](mailto:523groupR@office.unc.edu)
+* [523grouper@gmail.com](mailto:523grouper@gmail.com)
 
 ### Team members:
 * Andrew Huang ([ahuang352@gmail.com](mailto:ahuang352@gmail.com))
