@@ -1,3 +1,6 @@
+### 04/03/2019 deliverable:
+* [Midterm Presentation](https://docs.google.com/presentation/d/1nJ68Rlk7BJJmWnp-ik7mpa59gFa4MCZow051YbC2nAI/edit?usp=sharing)
+
 ### 25/02/2019 deliverable:
 * [Tech Talk Ideas](https://docs.google.com/document/d/1ljatkXs8Zo0GPVSzwhbhWiuCpdWVTkwD5ZkaFhaVOsI/edit?usp=sharing)
 
