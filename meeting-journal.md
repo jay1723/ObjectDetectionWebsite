@@ -3,6 +3,18 @@ layout: default
 title: Meeting journal
 ---
 
+### Client meeting 4/03/2019 @ 12:30:
+* When users upload an image on the initial screen, they should be able to crop them.
+* Make sure that the application window is resizable and looks OK when resized.
+* Phil will provide us with a TAR file containing pre-defined target images which he would like to include in the application. He would like us to make it so that this collection could be changed by him in the future without too much work.
+	* The target images come in pairs. One shows the 'front' of the object and the other shows the 'back'.
+* The numpy arrays should be in an RGB format when passed to the object detection code. No A.
+* In Phil's GitHub repository, the *test_tdid.py* file contains the necessary imports for his object detection code and shows how to call the code.
+
+### Meeting with manager 4/03/2019 @ 10:30:
+* Again, the meeting after spring break will be Tuesday @ 6:15
+* We are going to try and have a working demo by the time of that meeting
+
 ### Meeting with manager 25/02/2019 @ 10:30:
 * Meeting after spring break will be Tuesday @ 6:15
 * Set up weakly team meetings
