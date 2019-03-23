@@ -1,3 +1,6 @@
+### 23/03/2019 deliverable:
+* [APPLES Reflection 1](https://docs.google.com/document/d/1NJ8LWQF6c1_ZlccU4tbAImzKn2mVIgvjkjtOzfReuvs/edit?usp=sharing)
+
 ### 04/03/2019 deliverable:
 * [Midterm Presentation](https://docs.google.com/presentation/d/1nJ68Rlk7BJJmWnp-ik7mpa59gFa4MCZow051YbC2nAI/edit?usp=sharing)
 
