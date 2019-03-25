@@ -3,6 +3,11 @@ layout: default
 title: Meeting journal
 ---
 
+## Meeting with manager 19/03/2019 @ 6:15:
+* Get client-server interaction workable
+* Provide a fully working demo by the next meeting time
+* Begin investigating webcam interop
+
 ### Client meeting 4/03/2019 @ 12:30:
 * When users upload an image on the initial screen, they should be able to crop them.
 * Make sure that the application window is resizable and looks OK when resized.

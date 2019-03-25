@@ -3,5 +3,4 @@ layout: default
 title: Related links
 ---
 
-
-* Useful external resources that we may need go here.
+* [Article on animation with React](https://philna.sh/blog/2018/09/27/techniques-for-animating-on-the-canvas-in-react/)
