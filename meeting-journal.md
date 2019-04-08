@@ -3,12 +3,12 @@ layout: default
 title: Meeting journal
 ---
 
-## Meeting with manager 1/04/2019 @ 10:30:
+### Meeting with manager 1/04/2019 @ 10:30:
 * Pull in frames from the webcam so that they can be sent to the server
 * Add version number information to the test documentation
 * Finish the how-to doc plan
 
-## Meeting with manager 19/03/2019 @ 6:15:
+### Meeting with manager 19/03/2019 @ 6:15:
 * Get client-server interaction workable
 * Provide a fully working demo by the next meeting time
 * Begin investigating webcam interop
