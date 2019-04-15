@@ -1,4 +1,7 @@
-### 12/04/2019 deliverable:
+### 14/04/2019 deliverable:
+* [Hand-off plan](https://docs.google.com/document/d/1fib8Sndv_2B8y1v1uib6KfdDX1JzB9B4N3ssjxKafdM/edit?usp=sharing)
+
+### 10/04/2019 deliverable:
 * [Electron Presentation](https://docs.google.com/presentation/d/1IoDX3oJfIutc2EdfsL1LhUJQGH_l6XibcjlbuVmKGxU/edit?usp=sharing)
 
 ### 07/04/2019 deliverable:
