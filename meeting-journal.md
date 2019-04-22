@@ -3,10 +3,18 @@ layout: default
 title: Meeting journal
 ---
 
-### Meeting with client 11/04/2018 @ 3:30:
+### Meeting with manager 15/04/2019 @ 10:30:
+* Hand-off plan looks good as-is: no changes needed
+* Try to work on replacing the dummy neural network with the one Phil gave to us
+* Finish bounding box work
+* Finish cropping of target images
+* Finish the pre-defined image database
+* Get video output working
+
+### Meeting with client 11/04/2019 @ 3:30:
 * We should schedule a meeting in Phil's lab sometime at the beginning of this week. That way we can:
 	* Test our work on his workstation / the lab server
-	* See the old demo code that he was using in action
+	* See the old demo code that he was using?
 * How should cropping of target and scene images work in the UI?
 	* Users click twice on the image, box is drawn between those two points.
 * RE: the problems with sending target and scene images of different size:
@@ -15,7 +23,7 @@ title: Meeting journal
 	* It would be nice if users were able to choose in the application how many bounding boxes were shown.
 	* Instead of choosing a number of bounding boxes, some threshold value for confidence would be nice too.
 
-### Meeting with manager 8/04/2018 @ 10:30:
+### Meeting with manager 8/04/2019 @ 10:30:
 * Keep working on interaction between webcam and server
 * Get ready for tech talk
 * Work on the hand-off plan
